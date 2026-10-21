@@ -10,6 +10,10 @@
 - [gpt-chongzhi](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi)：GPT代充 / ChatGPT Plus 国内充值指南，各档价格、怎么选代充、充值失败排查
 - [claude-chongzhi](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi)：Claude 充值指南，Pro / Max 怎么选、充值后显示 Free 怎么办
 
+### 在哪买、质保怎么算
+
+瑶瑶自己经营 AI 会员代充商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/)：ChatGPT Plus / Pro、Claude Pro / Max、Gemini Pro、Grok 会员，都充到你自己的账号。质保规则：没开通成功不扣卡密、可重提或退款；开通后本期内掉会员再补一个月；账号被封不在质保范围。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html)，售后只找瑶瑶本人微信 yao77380。
+
 ### 官方声明
 
 瑶瑶没有发布过任何桌面软件、手机 App、浏览器插件或"账号切换器"。本账号下只有上面这些文字教程仓库，没有安装包，也不发布任何可下载的程序。
