@@ -9,6 +9,13 @@
 - [codex-cli-guide-cn](https://github.com/haiwaihuyonghui-rgb/codex-cli-guide-cn)：OpenAI Codex CLI 国内使用指南（2026），安装、ChatGPT 账号登录、Plus / Pro 额度、credits、常见报错
 - [gpt-chongzhi](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi)：GPT代充 / ChatGPT Plus 国内充值指南，各档价格、怎么选代充、充值失败排查
 - [claude-chongzhi](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi)：Claude 充值指南，Pro / Max 怎么选、充值后显示 Free 怎么办
+- [claude-daichong](https://github.com/haiwaihuyonghui-rgb/claude-daichong)：Claude Pro / Max 国内怎么开通，官方订阅、App 内购、赠送订阅、代充四种方法对比
+- [grok-premium](https://github.com/haiwaihuyonghui-rgb/grok-premium)：Grok Premium（原 SuperGrok）国内怎么买，官方四档价格、三合一说明、开通方法
+- [chatgpt-jiage-duibi](https://github.com/haiwaihuyonghui-rgb/chatgpt-jiage-duibi)：ChatGPT / Claude / Gemini / Grok 会员价格对比 2026，四家官方价、国内开通方法、代充价怎么算账
+- [chatgpt-pro-100](https://github.com/haiwaihuyonghui-rgb/chatgpt-pro-100)：ChatGPT Pro 100 美金档位国内怎么买 2026，Pro 100 / 200 / 500 三档区别、和 Plus 差在哪
+- [chatgpt-plus-wu-xinyongka](https://github.com/haiwaihuyonghui-rgb/chatgpt-plus-wu-xinyongka)：没有信用卡怎么开通 ChatGPT Plus 2026，支付宝 / 微信能不能付、礼品卡、代充
+
+全部攻略的网页版目录：[haiwaihuyonghui-rgb.github.io](https://haiwaihuyonghui-rgb.github.io/)
 
 ### 在哪买、质保怎么算
 
