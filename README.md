@@ -1,3 +1,5 @@
+**📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（ChatGPT Plus / Pro、Claude Pro / Max、Grok、Gemini Pro、Codex / Claude Code，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
+
 ## 你好，我是瑶瑶
 
 瑶瑶ai训练师，AI 内容创作者，整理 ChatGPT、Claude、Codex 等 AI 工具的中文教程。
