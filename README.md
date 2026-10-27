@@ -17,6 +17,8 @@
 
 全部攻略的网页版目录：[haiwaihuyonghui-rgb.github.io](https://haiwaihuyonghui-rgb.github.io/)
 
+组织号目录：[yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)（以后新攻略会交替放在组织 [yaoyao-ai-trainer](https://github.com/yaoyao-ai-trainer) 下，那里汇总两边全部攻略）
+
 ### 在哪买、质保怎么算
 
 瑶瑶自己经营 AI 会员代充商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/)：ChatGPT Plus / Pro、Claude Pro / Max、Gemini Pro、Grok 会员，都充到你自己的账号。质保规则：没开通成功不扣卡密、可重提或退款；开通后本期内掉会员再补一个月；账号被封不在质保范围。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html)，售后只找瑶瑶本人微信 yao77380。
